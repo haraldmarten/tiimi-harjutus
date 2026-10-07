@@ -1,1 +1,1 @@
-print("hello")
+VILKUMISE_AEG = 300
